@@ -1,0 +1,5 @@
+/*
+ * Public API Surface of loan-forgiveness
+ */
+export * from './lib/loan-forgiveness.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL2xvYW4tZm9yZ2l2ZW5lc3MvIiwic291cmNlcyI6WyJwdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYywrQkFBK0IsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXHJcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBsb2FuLWZvcmdpdmVuZXNzXHJcbiAqL1xyXG5cclxuZXhwb3J0ICogZnJvbSAnLi9saWIvbG9hbi1mb3JnaXZlbmVzcy5tb2R1bGUnO1xyXG4iXX0=

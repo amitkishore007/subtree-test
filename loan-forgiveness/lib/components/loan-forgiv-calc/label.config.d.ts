@@ -1,0 +1,21 @@
+export declare const defaultConfigLabel: {
+    choose_period_title: string;
+    covered_period_title: string;
+    start_date_label: string;
+    end_date_label: string;
+    forgiv_form_title: string;
+    fogiv_form_subtitle: string;
+    etran_btn_label: string;
+    req_field_label: string;
+    action_title: string;
+    head_count_label: string;
+    payroll_reduc_label: string;
+    reduc_plus_analy_label: string;
+    fte_pre_covid_label: string;
+    fte_cover_period_label: string;
+    pay_cut_label: string;
+    perc_fte_left_label: string;
+    amt_forgiven_label: string;
+    amt_payback_label: string;
+    submit_label: string;
+};

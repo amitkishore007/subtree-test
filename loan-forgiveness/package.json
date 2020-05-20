@@ -1,0 +1,19 @@
+{
+  "name": "loan-forgiveness",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^9.1.7",
+    "@angular/core": "^9.1.7",
+    "tslib": "^1.10.0"
+  },
+  "main": "bundles/loan-forgiveness.umd.js",
+  "module": "fesm5/loan-forgiveness.js",
+  "es2015": "fesm2015/loan-forgiveness.js",
+  "esm5": "esm5/loan-forgiveness.js",
+  "esm2015": "esm2015/loan-forgiveness.js",
+  "fesm5": "fesm5/loan-forgiveness.js",
+  "fesm2015": "fesm2015/loan-forgiveness.js",
+  "typings": "loan-forgiveness.d.ts",
+  "metadata": "loan-forgiveness.metadata.json",
+  "sideEffects": false
+}
